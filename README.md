@@ -5,6 +5,10 @@ Esse inicio do bootcamp pude entender como funciona o Cloud em si, em especial a
 Factory como segue o anexo a seguir
 ![Azure Databricks - Criação de Data Factory](https://github.com/user-attachments/assets/90f6e8a0-61ed-4ece-98ce-a35640e649cc)
 
+Visão geral do meu Data Factory
+![image](https://github.com/user-attachments/assets/ace3492f-a78d-4674-9d8b-a0c1d110b65c)
+
+
 Segui todo o passo a passo dito pela professora Carol, e consegui criar um grupo de Recursos e um Data Factory.
 
 ![image](https://github.com/user-attachments/assets/4363ca9f-be06-48ce-b2e3-82d86318e4d9)
